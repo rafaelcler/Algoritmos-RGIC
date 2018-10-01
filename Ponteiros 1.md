@@ -1,0 +1,1 @@
+Ponteiros são variáveis que permitem direcionar para um endereço de memória incrementos de um código ou programa.Da mesma forma que existem variaveis tipo char, floa,int,também existem variaveis do tipo ponteiro.
